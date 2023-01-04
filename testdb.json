@@ -1,6 +1,23 @@
-[
+{
+  "data": [
     {
-        "name" : "pravin mohite",
-        "batch" : "RM-101"
+      "name": "pravin mohite",
+      "batch": "RM-101"
+    },
+    {
+      "id": "21",
+      "name": "chole",
+      "price": "213"
+    },
+    {
+      "id": "4EproDm",
+      "name": "lenovo_ideapad",
+      "price": "324"
+    },
+    {
+      "id": "FGp5boG",
+      "name": "again uptated chole",
+      "price": "34535"
     }
-]
+  ]
+}

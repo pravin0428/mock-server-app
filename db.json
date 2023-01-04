@@ -725,6 +725,13 @@
         "property": "Complete 5 stays to unlock Genius Level 2",
         "url": "https://cf.bstatic.com/xdata/images/hotel/square600/178421525.webp?k=262301cdcbef1d33942bb02607906eafdee8dde3106ac5732966a206baeebb04&o=&s=1"
       }
+    ],
+    "data" : [
+      {
+          "id": "21",
+          "name": "chole",
+          "price": "213"
+      }
     ]
   }
   
